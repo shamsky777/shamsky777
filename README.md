@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=shamsky777)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/businessman-doing-meditation-5357556-4481451.png?f=webp">
 
 <h1>📧 How to reach me</h1>
 
