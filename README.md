@@ -8,7 +8,7 @@
 
 <h1>📧 How to reach me</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shama@begi.devi)
+[![Gmail style="border-radius: 15px;"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shama@begi.devi)
 
 <h1>💬 Social</h1>
 
