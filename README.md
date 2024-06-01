@@ -1,7 +1,7 @@
 <h1>💬 Social</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shamak.kkkk)
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/shamainhoboss/)
+[![Linktree](https://img.shields.io/badge/linkedin.com-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/shamainhoboss/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shamainhoboss)
 
 
